@@ -39,8 +39,4 @@
 ### VisualStudioCode Dev Container ###
 .devcontainer/*
 
-### Tucker go ###
-tuckergo/*
-tuckergorange/*
-
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,go

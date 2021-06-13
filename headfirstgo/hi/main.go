@@ -1,8 +1,13 @@
 package main
 
-import "../greeting"
+import (
+	"../annyung"
+	greeting1 "../greetings"
+)
 
 func main() {
-	greeting.Hello()
-	greeting.Hi()
+	greeting1.Hello()
+	greeting1.Hi()
+	annyung.Hello()
+	annyung.Hi()
 }
